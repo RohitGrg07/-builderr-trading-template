@@ -7,7 +7,7 @@ quant or a deep coder; you need a clear idea and this brief.
 
 ---
 
-## In one line
+## In one line~
 You write **one small Python function, `decide()`**, that each day looks at recent prices and
 returns buy/sell orders. We run it on a shared market sandbox. The best **risk-adjusted**
 performer over 30 days wins.
