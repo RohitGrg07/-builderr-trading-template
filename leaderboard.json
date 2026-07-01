@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-01T20:50:01Z",
+  "generated_at_utc": "2026-07-01T22:22:15Z",
   "as_of_market_date": "2026-07-01",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -64,8 +64,8 @@
     {
       "name": "drawdown-momentum",
       "label": "house \u00b7 the bar to beat",
-      "equity": 96578.64,
-      "pnl": -3421.36,
+      "equity": 96575.56,
+      "pnl": -3424.44,
       "ret": -0.0342,
       "trades": 24
     },
