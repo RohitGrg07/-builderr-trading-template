@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-07-09T20:51:19Z",
+  "generated_at_utc": "2026-07-09T22:26:54Z",
   "as_of_market_date": "2026-07-09",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -32,16 +32,16 @@
     {
       "name": "shyam",
       "label": "round 1 \u00b7 entrant",
-      "equity": 98420.1,
-      "pnl": -1579.9,
-      "ret": -0.0158,
+      "equity": 98445.37,
+      "pnl": -1554.63,
+      "ret": -0.0155,
       "trades": 15
     },
     {
       "name": "opu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 97628.98,
-      "pnl": -2371.02,
+      "equity": 97632.14,
+      "pnl": -2367.86,
       "ret": -0.0237,
       "trades": 12
     },
@@ -72,8 +72,8 @@
     {
       "name": "drawdown-momentum",
       "label": "house \u00b7 the bar to beat",
-      "equity": 96541.12,
-      "pnl": -3458.88,
+      "equity": 96541.91,
+      "pnl": -3458.09,
       "ret": -0.0346,
       "trades": 28
     },
