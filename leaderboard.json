@@ -1,104 +1,104 @@
 {
-  "generated_at_utc": "2026-07-15T18:13:06Z",
+  "generated_at_utc": "2026-07-15T20:15:05Z",
   "as_of_market_date": "2026-07-15",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
   "note": "Live Round 1 \u2014 every agent started with a $100,000 paper account on June 2, same data and fills for everyone, refreshed each market day. The final winner is risk-adjusted (see rules), so no one wins on a single lucky bet.",
   "bots": [
     {
-      "name": "vol-target",
+      "name": "sector-rotation",
       "label": "reference",
-      "equity": 100193.91,
-      "pnl": 193.91,
-      "ret": 0.0019,
-      "trades": 15
-    },
-    {
-      "name": "shyam",
-      "label": "round 1 \u00b7 entrant",
-      "equity": 99818.19,
-      "pnl": -181.81,
-      "ret": -0.0018,
-      "trades": 15
+      "equity": 104004.4,
+      "pnl": 4004.4,
+      "ret": 0.04,
+      "trades": 3
     },
     {
       "name": "dual-momentum-rotation",
       "label": "house \u00b7 all-weather",
-      "equity": 99414.72,
-      "pnl": -585.28,
-      "ret": -0.0059,
+      "equity": 103953.72,
+      "pnl": 3953.72,
+      "ret": 0.0395,
       "trades": 5
+    },
+    {
+      "name": "drawdown-momentum",
+      "label": "house \u00b7 the bar to beat",
+      "equity": 100373.75,
+      "pnl": 373.75,
+      "ret": 0.0037,
+      "trades": 2
+    },
+    {
+      "name": "robert",
+      "label": "round 1 \u00b7 entrant",
+      "equity": 100000.0,
+      "pnl": 0.0,
+      "ret": 0.0,
+      "trades": 0
+    },
+    {
+      "name": "zaid",
+      "label": "round 1 \u00b7 entrant",
+      "equity": 100000.0,
+      "pnl": 0.0,
+      "ret": 0.0,
+      "trades": 0
+    },
+    {
+      "name": "shyam",
+      "label": "round 1 \u00b7 entrant",
+      "equity": 100000.0,
+      "pnl": 0.0,
+      "ret": 0.0,
+      "trades": 0
+    },
+    {
+      "name": "harsimran",
+      "label": "round 1 \u00b7 entrant",
+      "equity": 100000.0,
+      "pnl": 0.0,
+      "ret": 0.0,
+      "trades": 0
+    },
+    {
+      "name": "vol-target",
+      "label": "reference",
+      "equity": 99954.57,
+      "pnl": -45.43,
+      "ret": -0.0005,
+      "trades": 4
     },
     {
       "name": "ai-momentum-basket",
       "label": "house \u00b7 aggressive",
-      "equity": 97997.69,
-      "pnl": -2002.31,
-      "ret": -0.02,
+      "equity": 98144.22,
+      "pnl": -1855.78,
+      "ret": -0.0186,
       "trades": 9
     },
     {
       "name": "opu",
       "label": "round 1 \u00b7 entrant",
-      "equity": 97775.93,
-      "pnl": -2224.07,
-      "ret": -0.0222,
+      "equity": 97977.16,
+      "pnl": -2022.84,
+      "ret": -0.0202,
       "trades": 12
-    },
-    {
-      "name": "sector-rotation",
-      "label": "reference",
-      "equity": 96718.89,
-      "pnl": -3281.11,
-      "ret": -0.0328,
-      "trades": 4
-    },
-    {
-      "name": "drawdown-momentum",
-      "label": "house \u00b7 the bar to beat",
-      "equity": 96346.3,
-      "pnl": -3653.7,
-      "ret": -0.0365,
-      "trades": 28
-    },
-    {
-      "name": "zaid",
-      "label": "round 1 \u00b7 entrant",
-      "equity": 94413.99,
-      "pnl": -5586.01,
-      "ret": -0.0559,
-      "trades": 30
-    },
-    {
-      "name": "harsimran",
-      "label": "round 1 \u00b7 entrant",
-      "equity": 93972.37,
-      "pnl": -6027.63,
-      "ret": -0.0603,
-      "trades": 77
     },
     {
       "name": "sumegh",
       "label": "round 1 \u00b7 entrant",
-      "equity": 92770.42,
-      "pnl": -7229.58,
-      "ret": -0.0723,
+      "equity": 92719.06,
+      "pnl": -7280.94,
+      "ret": -0.0728,
       "trades": 10
-    },
-    {
-      "name": "robert",
-      "label": "round 1 \u00b7 entrant",
-      "equity": 92091.8,
-      "pnl": -7908.2,
-      "ret": -0.0791,
-      "trades": 61
     },
     {
       "name": "mohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 91890.11,
-      "pnl": -8109.89,
-      "ret": -0.0811,
+      "equity": 91667.11,
+      "pnl": -8332.89,
+      "ret": -0.0833,
       "trades": 26
     }
   ]
