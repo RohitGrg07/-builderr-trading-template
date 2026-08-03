@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-08-03T21:08:35Z",
+  "generated_at_utc": "2026-08-03T23:06:41Z",
   "as_of_market_date": "2026-08-03",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -96,8 +96,8 @@
     {
       "name": "mohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 83057.75,
-      "pnl": -16942.25,
+      "equity": 83059.82,
+      "pnl": -16940.18,
       "ret": -0.1694,
       "trades": 49
     }
