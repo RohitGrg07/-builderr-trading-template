@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-05T21:02:41Z",
+  "generated_at_utc": "2026-10-06T02:09:33Z",
   "as_of_market_date": "2026-10-05",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -16,8 +16,8 @@
     {
       "name": "ai-momentum-basket",
       "label": "house \u00b7 aggressive",
-      "equity": 105243.32,
-      "pnl": 5243.32,
+      "equity": 105243.31,
+      "pnl": 5243.31,
       "ret": 0.0524,
       "trades": 9
     },
@@ -32,8 +32,8 @@
     {
       "name": "vol-target",
       "label": "reference",
-      "equity": 101699.0,
-      "pnl": 1699.0,
+      "equity": 101698.99,
+      "pnl": 1698.99,
       "ret": 0.017,
       "trades": 14
     },
@@ -56,8 +56,8 @@
     {
       "name": "zaid",
       "label": "round 1 \u00b7 entrant",
-      "equity": 91468.34,
-      "pnl": -8531.66,
+      "equity": 91468.29,
+      "pnl": -8531.71,
       "ret": -0.0853,
       "trades": 158
     },
@@ -72,16 +72,16 @@
     {
       "name": "harsimran",
       "label": "round 1 \u00b7 entrant",
-      "equity": 89974.36,
-      "pnl": -10025.64,
+      "equity": 89972.82,
+      "pnl": -10027.18,
       "ret": -0.1003,
       "trades": 247
     },
     {
       "name": "mohit",
       "label": "round 1 \u00b7 entrant",
-      "equity": 89558.41,
-      "pnl": -10441.59,
+      "equity": 89558.47,
+      "pnl": -10441.53,
       "ret": -0.1044,
       "trades": 100
     },
