@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-16T20:43:50Z",
+  "generated_at_utc": "2026-10-16T23:21:45Z",
   "as_of_market_date": "2026-10-16",
   "round_start": "2026-06-02",
   "start_cash": 100000.0,
@@ -56,8 +56,8 @@
     {
       "name": "harsimran",
       "label": "round 1 \u00b7 entrant",
-      "equity": 88162.34,
-      "pnl": -11837.66,
+      "equity": 88162.35,
+      "pnl": -11837.65,
       "ret": -0.1184,
       "trades": 282
     },
